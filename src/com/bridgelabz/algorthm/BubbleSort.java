@@ -32,7 +32,7 @@ public class BubbleSort {
 
                         // swapping occurs if elements
                         // are not in the intended order
-                        Integer temp = array[k];
+                        Integer temp = array[k]; 
                         array[k] = array[k + 1];
                         array[k + 1] = temp;
                     }
