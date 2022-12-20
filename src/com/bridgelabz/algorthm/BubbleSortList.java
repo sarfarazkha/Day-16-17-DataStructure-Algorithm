@@ -73,7 +73,7 @@ public class BubbleSortList {
      * @return: No return value.
      */
     private static void scanArrayList() {
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 10; i++) { 
             integerList.add(random.nextInt(999) + 1);
         }
     }
