@@ -34,7 +34,7 @@ public class FindWord {
             System.out.println("Word is not in the Array");
         } else {
             System.out.println("\nWord found at sorted Array of index : " + (i + 1));
-        }
+        } 
 
     }
 }
