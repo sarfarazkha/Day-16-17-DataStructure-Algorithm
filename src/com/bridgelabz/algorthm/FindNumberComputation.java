@@ -27,7 +27,7 @@ public class FindNumberComputation {
         int number = scanner.nextInt();
         int high = (int) Math.pow(2, number);
         int yourNumber = findNumberComputation.search(0, high);
-        System.out.printf("your guessed number is %d\n", yourNumber);
+        System.out.printf("your guessed number is %d\n", yourNumber); 
 
     }
 }
